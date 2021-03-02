@@ -1,4 +1,4 @@
-# Will My Online Post Likely to receive A Response?
+# Is My Online Post Likely to Receive A Response?
 
 Social media is a popular method by which people create, share and/or exchange information and ideas on online networks. They come in many forms, from the photo sharing platform that is Instagram to the forum based platform that is Reddit.
 
