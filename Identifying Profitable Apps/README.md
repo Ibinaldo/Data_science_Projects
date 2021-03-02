@@ -5,7 +5,7 @@ An app is essentially a piece of software that can run locally on your device, a
 ## What influences App engagement
 Understanding the factors that result in increased user engagement is crucial to the success of any company. Since a large majority of apps are free to download, revenue is influenced by the number of app users. Therefore my mission is to analyze data to identify characteristics that are most likely to attract more users to an app.
 
-## Data Source
+## Data Sources
 There currently over 2 million IOS app available on the App store, and over 2 million android apps on Google Play store making them one of the largest repositories for app. The data sets used in this study were obtained from
 1.     [Google Play Store data](https://www.kaggle.com/lava18/google-play-store-apps) and
 2.     [App Store data](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps). They contain data on about 10,000 Android apps from the Google Play store, and 7,000 iOS apps from the App Store respectively.
