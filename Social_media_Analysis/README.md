@@ -9,13 +9,13 @@ Social media platforms function in a variety of ways. Some involve uploading pic
 The dataset is obtained from [Hacker news/Kaggle](https://www.kaggle.com/hacker-news/hacker-news-posts), and consists of a years worth of posts. Posts without comments were removed from the data set, and filtered to only include `Ask HN` or `Show HN` posts. `Ask HN` posts denote users asking the Hacker News community a question, while `Show HN` posts are users submitting either projects, products or any link to something they like to share. Overall, the data set contains about 20,000 rows of data.
 
 ### Features
-**id**: The unique identifier from Hacker News for the post
-**title**: The title of the post
-**url**: The URL that the posts links to, if it the post has a URL
-**num_points**: The number of points the post acquired, calculated as the total number of upvotes minus the total number of downvotes
-**num_comments**: The number of comments that were made on the post
-author: The username of the person who submitted the post
-**created_at**: The date and time at which the post was submitted (Eastern time)
+1. **id**: The unique identifier from Hacker News for the post
+2. **title**: The title of the post
+3. **url**: The URL that the posts links to, if it the post has a URL
+4. **num_points**: The number of points the post acquired, calculated as the total number of upvotes minus the total number of downvotes
+5. **num_comments**: The number of comments that were made on the post
+6. **author**: The username of the person who submitted the post
+7. **created_at**: The date and time at which the post was submitted (Eastern time)
 
 
 ## Methodology
